@@ -18,13 +18,13 @@ host { 'repository.internal':
 This book assumes a basic level of understanding the Linux operating system. The book will go through configuring numerous AWS resources. Being familiar with AWS is a plus, but is not required, as all required services will be explained. Usage of some cloud services in this book will require you to spend a dollar or two on them. Although the book assumes Linux as the primary workstation operating system, all of the content applies to MacOS and most of it will work the same way on Windows as well.
 Internet connectivity is required to install the necessary tools, including Terraform. It is also required to perform any Terraform operations.
 
-##Related Products
+## Related Products
 * [Software Architecture with Python](https://www.packtpub.com/application-development/software-architecture-python?utm_source=github&utm_medium=repository&utm_campaign=9781786468529)
 
 * [Enterprise Application Architecture with .NET Core](https://www.packtpub.com/application-development/enterprise-application-architecture-net-core?utm_source=github&utm_medium=repository&utm_campaign=9781786468888)
 
 * [Building Bluetooth Low Energy (BLE) Systems](https://www.packtpub.com/hardware-and-creative/building-bluetooth-low-energy-ble-systems?utm_source=github&utm_medium=repository&utm_campaign=9781786461087)
 
-###Suggestions and Feedback
+### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
 
